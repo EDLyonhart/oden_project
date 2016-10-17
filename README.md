@@ -1,0 +1,1 @@
+Going through the Oden Project and www.railstutorial.org
